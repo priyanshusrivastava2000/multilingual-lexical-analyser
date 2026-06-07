@@ -1,0 +1,21 @@
+{
+    "AND": "y",
+    "BREAK": "salir",
+    "DO": "hacer",
+    "ELSE": "sino",
+    "ELSEIF": "osi",
+    "END": "fin",
+    "FOR": "para",
+    "FUNCTION": "función",
+    "IF": "si",
+    "IN": "en",
+    "LOCAL": "local",
+    "NIL": "nada",
+    "NOT": "no",
+    "OR": "o",
+    "REPEAT": "repitir",
+    "RETURN": "devolver",
+    "THEN": "entonces",
+    "UNTIL": "hasta",
+    "WHILE": "mientras"
+}

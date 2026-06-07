@@ -1,0 +1,21 @@
+{
+    "AND": "and",
+    "BREAK": "break",
+    "DO": "do",
+    "ELSE": "else",
+    "ELSEIF": "elseif",
+    "END": "end",
+    "FOR": "for",
+    "FUNCTION": "function",
+    "IF": "if",
+    "IN": "in",
+    "LOCAL": "local",
+    "NIL": "nil",
+    "NOT": "not",
+    "OR": "or",
+    "REPEAT": "repeat",
+    "RETURN": "return",
+    "THEN": "then",
+    "UNTIL": "until",
+    "WHILE": "while"
+}
